@@ -7,3 +7,5 @@ author : khwaza abbas
 company : hitech brains solutions pvt.ltd
 <br>
 trainee engineer
+<br>
+place : bareilly
